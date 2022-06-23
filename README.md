@@ -1,3 +1,2 @@
-<div align="center">  
-  <img  src="https://github-readme-stats.vercel.app/api?username=summerkirakira&theme=dark&show_icons=true" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=summerkirakira&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=summerkirakira)
