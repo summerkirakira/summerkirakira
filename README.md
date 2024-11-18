@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Summerkirakira</h1>
 <h3 align="center">A passionate full stack developer & student & gamer</h3>
 
-- 🔭 I’m currently working on [Starcitizen-lite](https://github.com/summerkirakira/Starcitizen-lite)
+- 🔭 I’m currently working on [RefugeNext](https://github.com/summerkirakira/RefugeNext)
 
 - 🌱 I’m currently learning **Janapanese&GRE**
 
