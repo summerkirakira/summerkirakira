@@ -1,5 +1,7 @@
 # Hi 👋, I'm Summerkirakira
 
+[![wakatime](https://wakatime.com/badge/user/018b7299-d087-463d-b7d8-23aa6d00402d.svg)](https://wakatime.com/@018b7299-d087-463d-b7d8-23aa6d00402d)
+
 ### A Passionate Full Stack Developer & PhD Student & Gamer
 
 - 🔭 I'm currently working on **RefugeNext**
