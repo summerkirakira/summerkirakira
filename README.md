@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/summerkirakira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="summerkirakira" height="30" width="40" /></a>
+  <a href="https://github.com/summerkirakira" target="blank"><img align="center" src="https://raw.githubusercontent.com/summerkirakira/summerkirakira/refs/heads/main/vrchat.png" alt="summerkirakira" height="55" width="55" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
