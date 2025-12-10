@@ -14,6 +14,6 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 <div align="left">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=summerkirakira&show_icons=true&locale=en" alt="summerkirakira" /></p>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=summerkirakira&layout=compact" />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats-git-main-hongpei-zhengs-projects.vercel.app/api?username=summerkirakira&show_icons=true&locale=en" alt="summerkirakira" /></p>
+    <img  src="https://github-readme-stats-git-main-hongpei-zhengs-projects.vercel.app/api/top-langs/?username=summerkirakira&layout=compact" />
 </div>
