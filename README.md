@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/summerkirakira" target="blank"><img align="center" src="https://raw.githubusercontent.com/summerkirakira/summerkirakira/refs/heads/main/vrchat.png" alt="summerkirakira" height="55" width="55" /></a>
+  <a href="https://vrchat.com/home/user/usr_f8e87c26-c21e-4805-95f8-fade23e31a3b" target="blank"><img align="center" src="https://raw.githubusercontent.com/summerkirakira/summerkirakira/refs/heads/main/vrchat.png" alt="summerkirakira" height="55" width="55" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
